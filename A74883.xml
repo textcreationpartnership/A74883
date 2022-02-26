@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A considerable question about government, (of very great importance in reference to the state of the present times) briefly discussed. With a necessary advice to the governours and governed. / By Isaac Penington, (junior) Esq;.</title>
+            <author>Penington, Isaac, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74883</idno>
+            <idno type="STC">Thomason E694_6</idno>
+            <idno type="STC">ESTC R207068</idno>
+            <idno type="EEBO-CITATION">99866140</idno>
+            <idno type="PROQUEST">99866140</idno>
+            <idno type="VID">166512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166512)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E694[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A considerable question about government, (of very great importance in reference to the state of the present times) briefly discussed. With a necessary advice to the governours and governed. / By Isaac Penington, (junior) Esq;.</title>
+                  <author>Penington, Isaac, 1616-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the black spread-Eagle at the west end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Political science --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166512:1" rendition="simple:additions"/>
+            <p>A Conſiderable QUESTION ABOUT Government, (Of very great Importance in reference to the ſtate of the preſent times) Briefly Diſcuſſed.</p>
+            <p>WITH A <hi>Neceſſary ADVICE</hi> TO THE Governors and Governed.</p>
+            <p>By ISAAC PENINGTON, <hi>(junior)</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <add>May 9.</add>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the black ſpread-Eagle at the Weſt end of <hi>Pauls.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166512:2"/>
+            <pb n="3" facs="tcp:166512:2"/>
+            <head>A QUESTION ABOUT Government, &amp;c.</head>
+            <p>THe Queſtion is this: <hi>Which is better, both for the Good, Safety and Welfare, both of the Go<g ref="char:EOLhyphen"/>vernors and Governed, Abſolute or Limited Au<g ref="char:EOLhyphen"/>thority?</hi>
+            </p>
+            <p>
+               <hi>Abſoluteneſs</hi> is a full Power of Government without interruption, without rendering an account, reſiding in the Breſt, Will or Conſcience of the Governor or Go<g ref="char:EOLhyphen"/>vernors.</p>
+            <p>
+               <hi>Limitation</hi> is a circumſcribing of this Power within ſuch certain bounds, as the people, for whoſe ſake and benefit Government is, ſhall think fit to confine it unto, for their good and ſecurity.</p>
+            <p>
+               <pb n="4" facs="tcp:166512:3"/>
+Now without Controverſie great is the advantage of Abſoluteneſs, both to the Governors in the execution of their Duty, and to the People towards their reaping the fruit of Government; ſuppoſing the perſon or per<g ref="char:EOLhyphen"/>ſons who govern, to be men of knowledg and integrity, whoſe Judgments and Conſciences are not liable to be deceived or perverted.</p>
+            <p>
+               <hi>Laws</hi> cannot fully anſwer the needs and neceſſities of men, many may need <hi>a Law</hi> before it can be made: nay <hi>Laws</hi> are uſually much needed by the people, and they ſuffer much through the want of them before they have them: but <hi>a ſtanding clear free Light and full Power</hi> might effect this.</p>
+            <p>But now in reſpect of the corrupt eſtate of Man, who is too apt to bend all aſide to his own advantage with the prejudice of others, this root becomes evil, and brings forth the worſt kind of fruit. It brings forth Slavery in ſtead of Liberty, Oppreſſion in ſtead of Eaſe, ſwallowing up the good and happineſs of the People in ſtead of nouriſhing and preſerving it.</p>
+            <p>It is the happineſs of Man to be governed by Rules of Righteouſneſs: To have theſe freely, purely, ſwiftly and fully framed and diſpenced. This may be beſt done by an abſolute Government. But becauſe of mans corruption (which always lieth lurking in him, and is ſtill ready to iſſue forth from him, when it eſpyeth its opportunity) it is impoſſible this ſhould be rightly or<g ref="char:EOLhyphen"/>dered and adminiſtred: And we find dayly, that by Abſoluteneſs in Government the People are expoſed to ſlavery, their liberties, yea their very lives ſubjected, not to righteouſneſs in another, but to the corruption of another. So that Abſoluteneſs of Government, take
+<pb n="5" facs="tcp:166512:3"/>it as the ſtate of things now ſtands, is no other then a giving up of the eſtates, liberties and lives of the People into the jaws of unrighteouſneſs, into the hands of a ſelfiſh Power.</p>
+            <p>This then is the plain reſult; <hi>Abſoluteneſs</hi> is beſt in it ſelf, but <hi>limitations</hi> are ſafeſt for the preſent condition of man. But what if God (from whom both theſe had their being, continuation and bleſſing) be ſtriking at the root both of Abſoluteneſs and of Limitedneſs, ſhewing the weakneſs and inſufficiency of both, and turning them upſide down as faſt as he diſcovereth it? For my part I deſire to be ſilent concerning theſe things; not only outwardly before men, but even inwardly in mine own Soul: According to which propenſity, I haſten to a concluſion, only adding one word of advice both to the Governors and the Governed in theſe tottering times.</p>
+            <p>My advice to the <hi>Governors</hi> is, That they undertake not to bring forth that which is not in them. He who ſtands below, when he looketh on thoſe above, eaſily eſpyeth many miſcarriages in them (though not always juſtly) making no queſtion of amending them, when he himſelf comes in place, and is inveſted with Power; but doth it prove ſo? The <hi>Parliament</hi> ſeemed to ſpring up with a more excellent ſpirit, undertaking to rectifie that which was crooked in the foregoing Government, but did they indeed and in truth effect it? The <hi>Army</hi> ſeemeth to riſe up with a more excellent ſpirit then they: but what their thoughts and intentions are, and what will be the ſucceſs, the Lord only knoweth, (for man himſelf knoweth neither his own heart nor ways, ſel<g ref="char:EOLhyphen"/>dom being what he ſtill taketh himſelf to be.) He who
+<pb n="6" facs="tcp:166512:4"/>is of counſel with the Lord, may know what he intends; but alas how eaſily may all the good purpoſes of man fall to the ground, and he prove the great Introducer of that which he propoſed to himſelf to be the Deliverer from! There is ſome times a ſudden blaſt of the Lord, leading man towards that which is righteous; but ſo ſoon as man is exalted, he forgets the Lord, and returns into himſelf, and <hi>in that very day</hi> all <hi>his</hi> good <hi>thoughts</hi> dye and <hi>periſh.</hi> Man ſo ſoon as ever he comes into place of government, his heart is immediatly lifted up above his brethren, which temper maketh him unfit for go<g ref="char:EOLhyphen"/>vernment, and prepareth the way to his own ruine. The wind of the Lord is ſtrong, O take heed of exaltation! The wiſdom, heart, and ſpirit of man is narrow and weak, Oh take heed of undertaking much! The true oil is very rare and ſcarce, O who can do the work of the Lords annointed!</p>
+            <p>My advice to the <hi>Governed</hi> is, but this. Expect not that fruit from your Governours, the root whereof is not in them. Did man ever bring forth righteouſneſs or peace? Have ye not yet had enough of looking for Reformation and amendment of things from this or that party? O Lord God what a poor Reformation and ſettlement is it, which man deſires, and yet how far is he from attaining it! In the midſt of all his travell<g ref="char:EOLhyphen"/>ing pangs, he travels but with the wind, and can bring forth but a whirlwind. Who hath ſhaken this State? Is it not the Lord? and do ye think man can ſettle it? If ye your ſelves were Governours, ye would act like thoſe that had gone before you; and having the ſame ſpirit of ſelfiſhneſs and injury in you (though ye ſee it no more in your ſelves, then they did in themſelves)
+<pb n="7" facs="tcp:166512:4"/>how dare ye be ſo bitter againſt them? Be ſtill, be qui<g ref="char:EOLhyphen"/>et, and ye ſhall ſee that the Lord will deal with thoſe that oppreſs you. There is no power of unrighteouſ<g ref="char:EOLhyphen"/>neſs and oppreſſion, ſhall be able to found it ſelf ſo deep, or ſettle it ſelf ſo ſtrong, but the Lord will ſhatter and raze it. If the Lord hath deſigned (and be ariſen in this Land) to break open the gates of violence and op<g ref="char:EOLhyphen"/>preſſion, wo be them who henceforth, under any pre<g ref="char:EOLhyphen"/>tence whatſoever, ſtep into the ſeat of it. There ſhall henceforward be <hi>no peace to the wicked, ſaith my God;</hi> but onely a little ſtilneſs and ſecurity, while his foun<g ref="char:EOLhyphen"/>dation is undermining. Fear not the hand of the op<g ref="char:EOLhyphen"/>preſſor becauſe of his height or irreſiſtibleneſs; for, for this end is all this, that God might glorifie and exalt himſelf in his downfal and deſolation; which when it is perfected, then ſhall it be ſaid and ſung with joy, <hi>Come and ſee what deſolations the Lord hath made in the earth.</hi> Onely be not ye too buſie, but kiſs the rod; and com<g ref="char:EOLhyphen"/>plain not ſo much of the iniquity and unrighteouſneſs of others, but mourn bitterly over that root, nature, and vigor of it which is in your ſelves.</p>
+            <p>There is indeed a great truth now held forth, That <hi>the Saints ſhall govern the world,</hi> which is the very inte<g ref="char:EOLhyphen"/>reſt of the world, though they know it not: for the na<g ref="char:EOLhyphen"/>ture and happineſs of their life dependeth upon the na<g ref="char:EOLhyphen"/>ture and happineſs of the life of Chriſt. When the Spi<g ref="char:EOLhyphen"/>rit of Chriſt is poured out upon, and ſpringeth up in his Saints, they ſhall be able to effect this: But if they who are not this in truth, ſhall take this upon them (or if they who are in it, in the root and nature of it, ſhall ſtep into it too ſoon) they will not onely fall ſhort of ef<g ref="char:EOLhyphen"/>fecting what they aim at, but in ſtead thereof will bring
+<pb n="8" facs="tcp:166512:5"/>forth the clean contrary, <hi>viz.</hi> the greateſt unrighteouſ<g ref="char:EOLhyphen"/>neſs eſtabliſhed by the ſtrongeſt and moſt unrighteous Law. The Law of the ſpirit of Chriſt is the eaſieſt, the beſt, the ſweeteſt: but the Law of the Spirit or cor<g ref="char:EOLhyphen"/>ruption of man, under that vizard is the worſt. Oh that this ſo long-captived-Nation, could lift up their eyes towards, and wait for, the ſalvation of God!</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
